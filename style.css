@@ -1,0 +1,16 @@
+.w-60 {
+    width: 60%;
+}
+.w-80 {
+    width: 80%;
+}
+.w-58 {
+
+    width: 58%;
+}
+.progress{
+    --bs-progress-height:5px;
+}
+.w-40 {
+    width: 40%;
+}
